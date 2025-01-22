@@ -1,29 +1,47 @@
 ---
 layout: page
-title: About
+title: "About Me"
+permalink: /about/
+date: 2025-01-01
+---
+ 
+### Hi, I'm Louise. 
+
+When I was a student, I always imagined how great it would be to work in cybersecurity.  
+Before transitioning into this field, I worked in Linux support. I'm grateful to my former boss for giving me that opportunity.   
+
+However, there were times I felt like I was wasting time and making too many mistakes.  
+<br />
+Anyway, in the upcoming year, I plan to continue my studies to enhance my skills and deepen my knowledge in the field.
+<br />
+
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Achievement
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+| Year    | Certicification | Awards                                                            |
+|---------|-----------------|-------------------------------------------------------------------|
+| 10/2024 | OSEP            | /                                                                 |
+| 06/2024 | OSWE            | /                                                                 |
+| 10/2020 | /               | CVE-2020-26623 to CVE-2020-26625 <br/> CVE-2020-26627 to CVE-2020-26630|
+| 10/2019 | OSCP            | /                                                                 |
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<br/>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Conferences
 
-## Setup
+| Year    | Conference               |
+|---------|--------------------------|
+| 04/2024 | BSides Hong Kong         |
+| 08/2021 | VXCon                    |
+| 09/2018 | HitCon (ZeroDay Session) |
 
-Some fun facts about the setup of this project include:
+<br/>
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+### HTB Pro Lab
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+| Year    | Lab |
+|---------|-----|
+|12/2024  |Rastalabs|
 
-Thanks for reading!
