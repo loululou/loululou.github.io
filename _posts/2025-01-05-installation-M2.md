@@ -1,5 +1,5 @@
 ---
-title:  "2025"
+title:  "Install Windows 11 on Mac"
 layout: post
 categories: 
   - notes
@@ -9,7 +9,8 @@ last_modified_at: 2025-01-05
 
 Just a note.. 
 
-# Install Windows 11 on Mac (M chip)  
+---
+
 When installing Windows 11 on a Mac with an M chip, you might encounter an issue: no network access.  
 
 At this screen, press `Shift + FN + F10` to open the command prompt.  
