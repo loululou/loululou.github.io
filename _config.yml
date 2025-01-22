@@ -2,7 +2,7 @@
 title:               "loulu's"
 tagline:             'blog'
 description:         'Just a simple blog'
-url:                 https://loulu.xyz/
+url:                 https://loulu.xyz
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Louise
-  url:               https://loulu.xyz/
+  url:               https://loulu.xyz
   email:             xx@xx.com
 
 # Gems
