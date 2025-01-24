@@ -3,7 +3,7 @@ title:               "loulu's"
 tagline:             'blog'
 description:         'Just a simple blog'
 url:                 https://loulu.xyz
-baseurl:             '/about'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
