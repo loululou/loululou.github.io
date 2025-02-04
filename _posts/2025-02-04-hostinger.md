@@ -18,7 +18,7 @@ During the process, while installing the Go lang tool, I encountered the followi
 dial tcp: lookup proxy.golang.org on [::1]:53: read udp [::1]:46622->[::1]:53: read: connection refused
 ```
 
-I fixed the issue using the following command:  
+To fix the issue, we can use:  
 
 ```
 ln -sf /run/systemd/resolve/stub-resolv.conf /etc/resolv.conf  
