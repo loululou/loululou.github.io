@@ -7,11 +7,13 @@ permalink: /notes/2025-02-04-hostinger
 last_modified_at: 2025-02-04
 ---
 
-Originally, I was using DigitalOcean and mostly running Ubuntu for my proxy OS needs. Later, I discovered that Hostinger (hostinger.com) offers similar functionalities—but with Kali Linux as the operating system—so I decided to give it a try.   
+Originally, I was using DigitalOcean and mostly running Ubuntu for my socks proxy. I discovered that Hostinger (hostinger.com) offers similar functionalities but you can choose Kali Linux as the operating system, so I decided to give it a try.   
 
 You can use my code to get a 20% discount:  
 https://hostinger.com?REFERRALCODE=NMDOOOLAN1G6  
 
+---
+Additional information:  
 During the process, while installing the Go lang tool, I encountered the following error:  
 
 ```
