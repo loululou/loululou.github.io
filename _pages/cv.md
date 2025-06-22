@@ -19,7 +19,7 @@ Certifications
   * OSED
 * OSCP
 
-Expired: CRPT, CPSA, CRTP  
+Expired: CRT, CPSA, CRTP  
    
 Conferences (Speaker)
 ======
