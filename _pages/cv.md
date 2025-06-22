@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Achievement"
+title: "Achievements"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,8 +18,7 @@ Certifications
   * OSEP
   * OSED
 * OSCP
-
-Expired: CRT, CPSA, CRTP  
+* Expired: CRT, CPSA, CRTP  
    
 Conferences (Speaker)
 ======
