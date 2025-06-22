@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Certifications
 ======
 * OSCE3 [OSWE, OSEP, OSED]
@@ -16,17 +18,15 @@ Certifications
   * OSEP
   * OSED
 * OSCP
-
----
- 
+  
+   
 Conferences (Speaker)
 ======
 * BSides Hong Kong (April 2024)
 * VXCon (August 2021)
 * Hacks In Taiwan Conerence (August 2019)
-
----
   
+    
 CVEs
 ======
 * CVE-2020-26623
