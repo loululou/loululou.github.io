@@ -13,8 +13,8 @@ redirect_from:
 
 Certifications
 ======
-* OSCE3 [OSWE, OSEP, OSED]
-  * OSEW
+* OSCE3
+  * OSWE
   * OSEP
   * OSED
 * OSCP
